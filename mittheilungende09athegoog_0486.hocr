@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende09athegoog_0486.png"; bbox 0 0 3750 5467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 718 574 3280 639">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 718 574 3280 639">
+     <span class='ocr_line' id='line_1_1' title="bbox 718 574 3280 639; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 718 575 1035 639; x_wconf 83' lang='lat' dir='ltr'>ATHEN.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1085 574 1791 638; x_wconf 82' lang='lat' dir='ltr'>MITTHElLUNGEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 1845 580 2010 637; x_wconf 76' lang='lat'>1888</span> <span class='ocrx_word' id='word_1_4' title='bbox 2831 575 3103 637; x_wconf 83' lang='lat' dir='ltr'><strong>TAFEL</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3152 577 3280 638; x_wconf 84' lang='lat' dir='ltr'>VIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1094 992 2768 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1094 992 2768 4448">
+     <span class='ocr_line' id='line_1_2' title="bbox 1094 992 2768 4448; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1094 992 2768 4448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 996 4925 2980 5034">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 996 4925 2980 5034">
+     <span class='ocr_line' id='line_1_3' title="bbox 996 4925 2980 5034; baseline -0.001 -35"><span class='ocrx_word' id='word_1_7' title='bbox 996 4925 1357 4999; x_wconf 72' lang='lat' dir='ltr'>STATUE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1404 4935 1592 4998; x_wconf 86' lang='lat' dir='ltr'>VOM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1641 4926 2154 4998; x_wconf 78' lang='lat' dir='ltr'>MONUMENT</span> <span class='ocrx_word' id='word_1_10' title='bbox 2204 4938 2360 4999; x_wconf 79' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_11' title='bbox 2418 4925 2980 5034; x_wconf 68' lang='lat' dir='ltr'>THRASYLLOS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
