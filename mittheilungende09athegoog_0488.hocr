@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende09athegoog/mittheilungende09athegoog_0488.png"; bbox 0 0 3750 5467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3113 1915 3187 3979">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3113 1915 3187 3979">
+     <span class='ocr_line' id='line_1_1' title="bbox 3113 1915 3187 3979; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 3113 1915 3185 2398; x_wconf 66' lang='lat' dir='ltr'>nomiflvx</span> <span class='ocrx_word' id='word_1_2' title='bbox 3114 2526 3184 2739; x_wconf 74' lang='grc' dir='ltr'>ΙΝΞΠ</span> <span class='ocrx_word' id='word_1_3' title='bbox 3114 2869 3185 3060; x_wconf 77' lang='lat' dir='ltr'>SssV</span> <span class='ocrx_word' id='word_1_4' title='bbox 3114 3176 3187 3979; x_wconf 64' lang='lat' dir='ltr'>38831-108N38VA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1042 814 2580 5008">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1042 814 2580 5008">
+     <span class='ocr_line' id='line_1_2' title="bbox 1042 814 2580 5008; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 1042 814 2580 5008; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 553 678 609 5142">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 553 678 609 5142">
+     <span class='ocr_line' id='line_1_3' title="bbox 553 678 609 5142; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 553 678 599 744; x_wconf 66' lang='grc' dir='ltr'>,χι</span> <span class='ocrx_word' id='word_1_7' title='bbox 556 800 600 981; x_wconf 46' lang='lat' dir='ltr'>7332ss</span> <span class='ocrx_word' id='word_1_8' title='bbox 575 4055 581 4061; x_wconf 84' lang='lat'>-</span> <span class='ocrx_word' id='word_1_9' title='bbox 564 4327 609 4473; x_wconf 53' lang='lat'><strong>⁸888&amp;</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 558 4506 606 5142; x_wconf 62' lang='lat' dir='ltr'>“Jennuwum&#39;uauu</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
